@@ -976,4 +976,16 @@
     "category": "module",
     "tags": ["page type", "allowed types", "user experience", "asset folders"]
   }
+
+   {
+    "name": "Cards list and filter by categories",
+    "description": "Widget provides possibility to dipslay list of cards of specified page type and path and possibility to filetr this cards by assigned categories.",
+    "thumbnailUrl": "https://github.com/mzhokh/FilterByCategoryWidget/blob/main/Example.PNG",
+    "author": "BitsOrchestra",
+    "sourceUrl": "https://github.com/mzhokh/FilterByCategoryWidget/tree/main/FilterByCategoryWidget",
+    "version": "12.0.0",
+    "kenticoVersions": ["12.0.0"],
+    "category": "widget",
+    "tags": ["widget", "page types", "page listing", "categories", "filter by categories"]
+  }
 ]
